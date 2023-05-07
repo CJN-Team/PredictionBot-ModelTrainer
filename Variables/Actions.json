@@ -1,0 +1,13 @@
+{
+    "Variables": [
+      {
+        "Name": "DOCKER_HUB_IMAGE",
+        "Value": "predictionbotservice/model-trainer-service",
+        "Scope": {
+            "Environment": [
+              "Deploy"
+            ]
+        }
+      }
+    ]
+}
